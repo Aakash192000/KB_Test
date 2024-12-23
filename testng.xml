@@ -1,0 +1,7 @@
+<suite name="ToDoSuite">
+	<test name="ToDoTest">
+		<classes>
+			<class name="Test.ToDoTest"/>
+		</classes>
+	</test>
+</suite>
